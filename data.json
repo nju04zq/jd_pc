@@ -1,0 +1,197 @@
+[
+  {
+    "lowest": 829, 
+    "name": "英特尔（Intel） i3 8100 酷睿四核 盒装CPU处理器", 
+    "link": "https://item.jd.com/5008447.html", 
+    "prices": [
+      {
+        "val": 829, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "CPU"
+  }, 
+  {
+    "lowest": 499, 
+    "name": "微星（MSI）H310M PRO-VH主板（Intel H310/LGA 1151）", 
+    "link": "https://item.jd.com/7047291.html", 
+    "prices": [
+      {
+        "val": 499, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "MB"
+  }, 
+  {
+    "lowest": 269, 
+    "name": "西部数据(WD)蓝盘 1TB SATA6Gb/s 7200转64M 台式机硬盘(WD10EZEX)", 
+    "link": "https://item.jd.com/675971.html", 
+    "prices": [
+      {
+        "val": 269, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "HDD"
+  }, 
+  {
+    "lowest": 369, 
+    "name": "三星(SAMSUNG) 850 120G SATA3 固态硬盘", 
+    "link": "https://item.jd.com/5043715.html", 
+    "prices": [
+      {
+        "val": 369, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "SSD"
+  }, 
+  {
+    "lowest": 599, 
+    "name": "芝奇(G.Skill) Ripjaws 4系列 DDR4 2400频率 8G 台式机内存 (宾利黑)", 
+    "link": "https://item.jd.com/1773544.html", 
+    "prices": [
+      {
+        "val": 599, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "RAM"
+  }, 
+  {
+    "lowest": 219, 
+    "name": "爱国者（aigo）炫影黑京东专供版 电脑机箱（配3把发光风扇/支持ATX主板/蜂窝玻璃面板/背线", 
+    "link": "https://item.jd.com/3303012.html", 
+    "prices": [
+      {
+        "val": 219, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "BOX"
+  }, 
+  {
+    "lowest": 219, 
+    "name": "航嘉（Huntkey）额定350W JUMPER350S电源 (主动PFC/双管正激/宽幅电压/背部走线)", 
+    "link": "https://item.jd.com/942039.html", 
+    "prices": [
+      {
+        "val": 219, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "POW"
+  }, 
+  {
+    "lowest": 89, 
+    "name": "建兴（LITEON）18倍速 SATA接口 内置DVD光驱 台式机光驱", 
+    "link": "https://item.jd.com/136434.html", 
+    "prices": [
+      {
+        "val": 89, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": true, 
+    "type": "DVD"
+  }, 
+  {
+    "lowest": 819, 
+    "name": "AOC I2490VXH/BS 23.8英寸 1.5mm窄边框 AH-IPS硬屏 低蓝光爱眼不闪屏 24 电脑显示器（HDMI版）", 
+    "link": "https://item.jd.com/5155905.html", 
+    "prices": [
+      {
+        "val": 849, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "MONITOR"
+  }, 
+  {
+    "lowest": 129, 
+    "name": "漫步者（EDIFIER） R101V 2.1声道多媒体音箱 音响 电脑音箱 黑色", 
+    "link": "https://item.jd.com/136360.html", 
+    "prices": [
+      {
+        "val": 129, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "SPEAKER"
+  }, 
+  {
+    "lowest": 79, 
+    "name": "罗技（Logitech）MK120 键鼠套装 鼠标键盘套装 三年质保 黑色", 
+    "link": "https://item.jd.com/584300.html", 
+    "prices": [
+      {
+        "val": 79, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "MK"
+  }, 
+  {
+    "lowest": 279, 
+    "name": "汉王（hanvon）免驱挑战者手写板", 
+    "link": "https://item.jd.com/1096586.html", 
+    "prices": [
+      {
+        "val": 279, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "PAD"
+  }, 
+  {
+    "lowest": 119, 
+    "name": "罗技（Logitech）C270 高清网络摄像头", 
+    "link": "https://item.jd.com/276034.html", 
+    "prices": [
+      {
+        "val": 129, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "CAMERA"
+  }, 
+  {
+    "lowest": 12, 
+    "name": "dostyle MP101冰滑鼠标垫京东JOY版象牙黑", 
+    "link": "https://item.jd.com/942641.html", 
+    "prices": [
+      {
+        "val": 12, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "MP"
+  }, 
+  {
+    "lowest": 29, 
+    "name": "飞利浦（PHILIPS）HDMI线2.0版 4K数字高清线 18Gbps 1.5米 SWL6118C/93", 
+    "link": "https://item.jd.com/2238360.html", 
+    "prices": [
+      {
+        "val": 29, 
+        "time": 1526437354
+      }
+    ], 
+    "suite": false, 
+    "type": "HDMI"
+  }
+]

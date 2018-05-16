@@ -1,0 +1,100 @@
+[
+    {
+        "suite": true,
+        "type": "CPU",
+        "name": "锐龙 AMD Ryzen 5 1500X 处理器4核AM4接口 3.5GHz 盒装",
+        "lowest": 1049,
+        "link": "https://item.jd.com/4802786.html"
+    }, 
+    {
+        "suite": true,
+        "type": "MB",
+        "name": "华硕（ASUS）TUF B350M-PLUS GAMING 主板（AMD B350/socket AM4）",
+        "lowest": 524,
+        "link": "https://item.jd.com/5001445.html"
+    },
+    {
+        "suite": true,
+        "type": "HDD",
+        "name": "西部数据(WD)蓝盘 1TB SATA6Gb/s 7200转64M 台式机硬盘(WD10EZEX)",
+        "lowest": 299,
+        "link": "https://item.jd.com/675971.html"
+    },
+    {
+        "suite": true,
+        "type": "SSD",
+        "name": "三星(SAMSUNG) 850 120G SATA3 固态硬盘",
+        "lowest": 369,
+        "link": "https://item.jd.com/5043715.html"
+    },
+    {
+        "suite": true,
+        "type": "RAM",
+        "name": "美商海盗船(USCORSAIR) 复仇者LPX DDR4 2400 8GB 台式机内存",
+        "lowest": 659,
+        "link": "https://item.jd.com/2121097.html"
+    },
+    {
+        "suite": true,
+        "type": "BOX",
+        "name": "爱国者（aigo）炫影黑京东专供版 电脑机箱（配3把发光风扇/支持ATX主板/蜂窝玻璃面板/背线",
+        "lowest": 219,
+        "link": "https://item.jd.com/3303012.html"
+    },
+    {
+        "suite": true,
+        "type": "POW",
+        "name": "安钛克（Antec）额定450W VP450P 电脑电源（双显卡接头/两年质保/12CM静音风扇/台式机电源/吃鸡助手）",
+        "lowest": 259,
+        "link": "https://item.jd.com/251340.html"
+    },
+    {
+        "suite": false,
+        "type": "MONITOR",
+        "name": "戴尔（DELL） U2414H 23.8英寸窄边框旋转升降IPS屏 出厂色彩校准 96%sRGB 电脑显示器",
+        "lowest": 1449,
+        "link": "https://item.jd.com/1003062.html"
+    },
+    {
+        "suite": false,
+        "type": "SPEAKER",
+        "name": "漫步者（EDIFIER） R101V 2.1声道多媒体音箱 音响 电脑音箱 黑色",
+        "lowest": 139,
+        "link": "https://item.jd.com/136360.html"
+    },
+    {
+        "suite": false,
+        "type": "MK",
+        "name": "罗技（Logitech）MK120 键鼠套装 鼠标键盘套装 三年质保 黑色",
+        "lowest": 79,
+        "link": "https://item.jd.com/584300.html"
+    },
+    {
+        "suite": false,
+        "type": "PAD",
+        "name": "汉王（hanvon）免驱挑战者手写板",
+        "lowest": 279,
+        "link": "https://item.jd.com/1096586.html"
+    },
+    {
+        "suite": false,
+        "type": "CAMERA",
+        "name": "罗技（Logitech）C270 高清网络摄像头",
+        "lowest": 129,
+        "link": "https://item.jd.com/276034.html"
+    },
+    {
+        "suite": false,
+        "type": "MP",
+        "name": "dostyle MP101冰滑鼠标垫京东JOY版象牙黑",
+        "lowest": 12,
+        "link": "https://item.jd.com/942641.html"
+    },
+    {
+        "suite": true,
+        "type": "DVD",
+        "name": "建兴（LITEON）18倍速 SATA接口 内置DVD光驱 台式机光驱",
+        "lowest": 90,
+        "link": "https://item.jd.com/136434.html"
+    }
+]
